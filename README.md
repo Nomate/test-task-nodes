@@ -17,7 +17,9 @@ To run this project run
   npm run preview
 ```
 
+## Which libraries could be used if this were a large production project?
 
+For example, React Query for convenient API requests handling and caching, React Hook Form (with Yup) for more detailed form validation, use UI libs (like AntD or MUI) for faster UI development.
 
 
 ## Requirements
